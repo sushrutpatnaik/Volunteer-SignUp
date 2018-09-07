@@ -1,0 +1,77 @@
+{
+    "_id" : ObjectId("5adfe19af200561024e1d600"),
+    "what" : [ 
+        {
+            "_id" : ObjectId("5adfe19af200561024e1d601"),
+            "people_signedup" : [ 
+                {
+                    "_id" : ObjectId("5adfe4c8362ff50ee4020b86"),
+                    "firstname" : "John",
+                    "lastname" : "Doe",
+                    "email" : "shushwenira@gmail.com",
+                    "phone" : 4693189323
+                }
+            ],
+            "name" : "Auditorium Setup",
+            "when" : "04/01 - 04/08 Full Week  8 am to 10 am",
+            "people_needed" : 1
+        }, 
+        {
+            "_id" : ObjectId("5adfe232362ff50ee4020b7f"),
+            "people_signedup" : [ 
+                {
+                    "_id" : ObjectId("5adfe405362ff50ee4020b85"),
+                    "firstname" : "Ramanaryan",
+                    "lastname" : "Lakshmanan",
+                    "email" : "ramanarayan94@gmail.com",
+                    "phone" : 4693189323
+                }, 
+                {
+                    "_id" : ObjectId("5adff343362ff50ee4020b96"),
+                    "firstname" : "Sush",
+                    "lastname" : "doe",
+                    "email" : "sxp175331@utdallas.edu",
+                    "phone" : 4693189323
+                }
+            ],
+            "name" : "Talk Assist",
+            "when" : "04/01 - 04/08 Full Week  10 am to 1 pm",
+            "people_needed" : 4
+        }, 
+        {
+            "_id" : ObjectId("5adfe232362ff50ee4020b7e"),
+            "people_signedup" : [ 
+                {
+                    "_id" : ObjectId("5adfe394362ff50ee4020b83"),
+                    "firstname" : "Sushrut",
+                    "lastname" : "Patnaik",
+                    "email" : "patnaiksushrut@gmail.com",
+                    "phone" : 1234567890
+                }
+            ],
+            "name" : "Food serving",
+            "when" : "04/01 - 04/08 Full Week  1 pm to 2 pm",
+            "people_needed" : 2
+        }, 
+        {
+            "_id" : ObjectId("5adfe232362ff50ee4020b7d"),
+            "people_signedup" : [ 
+                {
+                    "_id" : ObjectId("5adfe3ac362ff50ee4020b84"),
+                    "firstname" : "Shubham",
+                    "lastname" : "Kharde",
+                    "email" : "sxk173732@utdallas.edu",
+                    "phone" : 1234567890
+                }
+            ],
+            "name" : "Clean up after the talk",
+            "when" : "04/01 - 04/08 Full Week  2 pm to 4 pm",
+            "people_needed" : 2
+        }
+    ],
+    "title" : "Technology Talk",
+    "owner" : "shushwenira@gmail.com",
+    "description" : "A series of Tech Talks hosted in TI auditorium in ECSS",
+    "isDeactivated" : false,
+    "__v" : 0
+}
